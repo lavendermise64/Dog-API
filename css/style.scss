@@ -1,0 +1,28 @@
+body{
+    // background-color: pink;
+    background-image: url(../images/hey.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    color: magenta;
+    text-decoration: underline;
+}
+img{
+    width: 450px;
+    // height: 50%;
+    margin-left: 45em;
+
+}
+#button{
+    margin-left: 70em;
+    padding: 2em;
+    background-color: black;
+    color: white;
+}
+.div{
+    box-shadow: 3px 3px 3px magenta;
+    
+}
